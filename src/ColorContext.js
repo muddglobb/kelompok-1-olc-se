@@ -24,3 +24,5 @@ export const ColorProvider = ({ children }) => {
         </ColorContext.Provider>
     );
 };
+
+    
